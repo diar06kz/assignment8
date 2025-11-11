@@ -1,6 +1,7 @@
 /* General styling */
 body {
   scroll-behavior: smooth;
+  padding-top: 80px;
 }
 
 section {
