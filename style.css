@@ -1,0 +1,37 @@
+/* General styling */
+body {
+  scroll-behavior: smooth;
+}
+
+section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+h2 {
+  color: #0d6efd;
+}
+
+.navbar {
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+footer {
+  margin-top: 50px;
+}
+
+/* Cards styling */
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Accordion styling */
+.accordion-button {
+  font-weight: 500;
+}
+
+/* Button hover */
+.btn-primary:hover {
+  background-color: #0056b3;
+}
